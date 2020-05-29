@@ -7,7 +7,7 @@
     'author': 'Calyx Servicios S.A., Odoo Community Association (OCA)',
     'maintainers': ['<Github/Gitlab Username/s>'],
 
-    'website': 'http://www.calyxservicios.com.ar/',
+    'website': 'http://odoo.calyx-cloud.com.ar/',
     'license': 'AGPL-3',
 
     # Categories can be used to filter modules in modules listing
