@@ -70,9 +70,9 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* `Calyx Servicios S.A. <http://www.calyxservicios.com.ar/>`_
+* `Calyx Servicios S.A. <http://odoo.calyx-cloud.com.ar/>`_
   
-  * Mario Moreno
+  * Lucas Soto
   * Jhone Mendez
   * Federico Gregori
 
@@ -83,7 +83,7 @@ This module is maintained by the Calyx Servicios S.A.
 
 .. image:: https://ss-static-01.esmsv.com/id/13290/galeriaimagenes/obtenerimagen/?width=120&height=40&id=sitio_logo&ultimaModificacion=2020-05-25+21%3A45%3A05
    :alt: Odoo Calyx Servicios S.A.
-   :target: http://www.calyxservicios.com.ar/
+   :target: http://odoo.calyx-cloud.com.ar/
 
 CALYX SERVICIOS S.A. It is part of the PGK Consultores economic group, member of an important global network, a world organization positioned among the 20 largest consultant-studios in the world.
 The PGK Consultores group is one of the 20 largest consultant-studios in Argentina with nearly 200 professionals.
